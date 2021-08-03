@@ -6,3 +6,4 @@
 - __Week One__: Natural Language Processing Basics
 - __Week Two__: Introduction To Neural Networks
 - __Week Three__: Attention & Transformers
+- __Week Four__: To Be Determined
