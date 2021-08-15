@@ -1,6 +1,7 @@
 # LLNL-NLP-reading-cohort
 ## In this respository, you will find notes for the __2021 Lawrence Livermore National Lab Natural Language Processing reading group__ cohort, led by Maia Powell.
 ### Inspiration for the agenda of this course comes from the  CS224n: Natural Language Processing with Deep Learning Stanford course.
+### *All information is curated from online sources and cited in each notebook.
 
 ### Schedule:
 - __Week One__: Natural Language Processing Basics
